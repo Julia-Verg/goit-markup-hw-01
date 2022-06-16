@@ -1,0 +1,76 @@
+.body {}
+.nav-logo-web {
+  text-decoration: none;
+ }
+
+.nav-link {
+  text-decoration: none;
+  color: #212121;
+   } 
+    .auth-nav-email,
+   .auth-nav-phone  {
+    text-decoration: none;
+  color: #757575;
+}
+    .style-list {
+      list-style-type: none; 
+    }
+/* header */
+        /* logo */  
+    .nav-logo {
+      text-decoration: none;
+  }
+  .nav-logo-studio {
+   color: #000000;
+  }
+  /* hero */
+  .hero {
+  }  
+  .hero-title {
+    text-transform: uppercase;
+   } 
+  .hero-button { 
+    border: none;
+    border-radius: 4px;
+  }
+  .feature-item {
+    color: #212121;
+    text-transform: uppercase;
+    }
+    .examples {
+    }   
+  .images-title{
+color: #212121;
+  }
+  .team{
+color: #212121;
+  }
+  .team-member{
+    color: #212121;
+  }
+  .team-position{
+    color: #757575;
+  }
+  .footer-content {
+  }
+.footer-logo { 
+    text-decoration: none;
+}
+.footer-logo-web {
+}
+
+.style-list-footer ,
+.style-address {
+  list-style-type: none; 
+  text-decoration: none;
+}
+.style-address {
+  
+}
+  .footer-mail {
+    text-decoration: none;
+  }
+  .footer-phone {
+    text-decoration: none;
+}
+ 
