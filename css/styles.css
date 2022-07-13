@@ -1,4 +1,4 @@
-.body {}
+
 .nav-logo-web {
   text-decoration: none;
  }
@@ -24,8 +24,6 @@
    color: #000000;
   }
   /* hero */
-  .hero {
-  }  
   .hero-title {
     text-transform: uppercase;
    } 
@@ -33,15 +31,16 @@
     border: none;
     border-radius: 4px;
   }
+  /* Features */
   .feature-item {
     color: #212121;
     text-transform: uppercase;
-    }
-    .examples {
-    }   
+    }  
+  /* What we do */ 
   .images-title{
 color: #212121;
   }
+  /* Our team */
   .team{
 color: #212121;
   }
@@ -51,26 +50,21 @@ color: #212121;
   .team-position{
     color: #757575;
   }
-  .footer-content {
-  }
+  /* Footer */
 .footer-logo { 
     text-decoration: none;
 }
 .footer-logo-web {
 }
 
-.style-list-footer ,
+.style-list-footer,
 .style-address {
   list-style-type: none; 
-  text-decoration: none;
 }
-.style-address {
-  
-}
-  .footer-mail {
+.style-address, 
+.footer-phone,
+.footer-mail{
     text-decoration: none;
-  }
-  .footer-phone {
-    text-decoration: none;
+    color: #757575;
 }
  
